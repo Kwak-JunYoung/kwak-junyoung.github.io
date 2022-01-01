@@ -6,18 +6,18 @@ categories: Machine Learning
 
 
 <b>2012 - AlexNet</b>
-    <ul>
-    <li>When an image of 224 * 224 is given, classifying it will be the objective</li>
-    <li>The first trial of using deep learning for image classification</li>
-    <li>
-    <img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlapGo%2Fbtrozw1U3y8%2FpIgFhOeUuWCf170VvnXAV0%2Fimg.png">
-    </li>
-    </ul>  
+<ul>
+<li>When an image of 224 * 224 is given, classifying it will be the objective</li>
+<li>The first trial of using deep learning for image classification</li>
+<li>
+<img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlapGo%2Fbtrozw1U3y8%2FpIgFhOeUuWCf170VvnXAV0%2Fimg.png">
+</li>
+</ul>  
 <b>2013 - DQN</b>
-    <ul>
-    <img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdqd83Z%2FbtroxkBnM4S%2FnnbHQvtfNrMPA1znmVw7Bk%2Fimg.png">
-    </li>
-    </ul>  
+<ul>
+<img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdqd83Z%2FbtroxkBnM4S%2FnnbHQvtfNrMPA1znmVw7Bk%2Fimg.png">
+</li>
+</ul>  
 <b>2014 - Encoder / Decoder, Adam</b>
 <ul>
 <li><b>Encoder / Decoder</b></li>
