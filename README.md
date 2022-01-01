@@ -1,2 +1,2 @@
-# gopseul.github.io
+# Kwak-JunYoung.github.io
 Github Blog Test
