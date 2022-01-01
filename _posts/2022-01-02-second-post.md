@@ -1,7 +1,7 @@
 ---
 title: "ML Models historical review"
 date: 2022-01-02
-categories: Machine Learning
+categories: MachineLearning
 ---
 
 
